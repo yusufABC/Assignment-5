@@ -30,10 +30,10 @@ const cardTitle = this.parentNode.parentNode.querySelector(".card-title").innerT
    taskAssigned.innerText=taskCount
    checkedTask.innerHTML= checkCount
    const activityPara=document.createElement("p")
-//    const activityMsg=`you have add a task "${cardTitle1}" at 10 pm `
    const activityMsg=`you have add a task "${cardTitle}" at ${new Date().toLocaleTimeString()} `
+
    activityPara.textContent=activityMsg
-   activityDiv.appendChild(activityPara)
+activityDiv.appendChild(activityPara)
 })
 }
 
@@ -41,4 +41,10 @@ const cardTitle = this.parentNode.parentNode.querySelector(".card-title").innerT
 const resetBtn=document.getElementById("reset-btn")
 resetBtn.addEventListener("click",function(){
     activityDiv.innerHTML=""
+})
+
+
+const card6Btn=document.getElementById("card-6-btn")
+card6Btn.addEventListener("click",function(){
+    alert("Congrats You Have Complete All The Task")
 })

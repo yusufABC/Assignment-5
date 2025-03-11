@@ -1,14 +1,14 @@
 const themeBtn=document.getElementById("theme-btn")
 const themes=[
     'bg-slate-200',
-    'bg-red-100',
-    'bg-blue-100',
+    'bg-red-200',
+    'bg-blue-200',
     'bg-yellow-100',
-    'bg-purple-100',
+    'bg-purple-300',
     'bg-pink-100',
-    'bg-indigo-100',
-    'bg-teal-100',
-    'bg-orange-100'
+    'bg-indigo-200',
+    'bg-teal-300',
+    'bg-orange-50'
 ]
 themeBtn.addEventListener("click",function(){
 for(const theme of themes){

@@ -6,3 +6,5 @@ const originialDate = new Date().toLocaleDateString('en-US', options);
 paraDate.textContent=originialDate
 
 date.appendChild(paraDate)
+
+
