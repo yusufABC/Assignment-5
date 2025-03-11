@@ -36,3 +36,9 @@ const cardTitle = this.parentNode.parentNode.querySelector(".card-title").innerT
    activityDiv.appendChild(activityPara)
 })
 }
+
+// reset button 
+const resetBtn=document.getElementById("reset-btn")
+resetBtn.addEventListener("click",function(){
+    activityDiv.innerHTML=""
+})
