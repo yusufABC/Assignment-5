@@ -36,7 +36,13 @@
 
 ## 📁 Project Structure
 
-
+DevBoard/
+│
+├── assets/ # Images and icons
+├── js/ # JavaScript files (main.js, theme.js, discover.js)
+├── index.html # Main dashboard
+├── discover.html # Blog section
+└── README.md # Project documentation
 ---
 
 ## 🚀 How to Run Locally
