@@ -6,7 +6,7 @@
 
 ## 🖼️ Project Preview
 
-📸 _You can add a beautiful screenshot below for better presentation:_
+https://github.com/yusufABC/Assignment-5
 
 
 > 📌 Replace `assets/screenshot.png` with the actual path to your image file.
@@ -45,9 +45,29 @@ DevBoard/
 └── README.md # Project documentation
 ---
 
+https://github.com/yusufABC/Assignment-5
+
 ## 🚀 How to Run Locally
 
 1. Clone the repository:
    ```bash
    git clone https://github.com/yourusername/devboard.git
 cd devboard
+
+📌 Notes
+All layout and responsiveness is written in vanilla CSS.
+
+Fonts are loaded via Google Fonts (Work Sans).
+
+For best viewing, use modern browsers (Chrome, Firefox, etc.).
+
+This project is great for HTML & CSS beginners.
+
+👨‍💻 Author
+Yusuf Abdullah
+(https://github.com/yusufABC)
+
+📃 License
+This project is open-source and available under the MIT License.
+
+
