@@ -1,0 +1,47 @@
+# 🚀 DevBoard - Task Tracker & Blog Dashboard
+
+**DevBoard** is a sleek, responsive task-tracking dashboard with a built-in blog section. It’s built using vanilla JavaScript, Tailwind CSS, and DaisyUI to manage tasks, log activities, and provide educational blog content about the DOM.
+
+---
+
+## 🖼️ Project Preview
+
+📸 _You can add a beautiful screenshot below for better presentation:_
+
+
+> 📌 Replace `assets/screenshot.png` with the actual path to your image file.
+
+---
+
+## ✨ Features
+
+- ✅ Add and mark tasks as completed
+- 📊 Dynamic activity log
+- 🌈 Random theme changer
+- 📅 Live date display
+- 🧠 Blog section with DOM-related interview questions
+- 🧭 Navigation between dashboard and blog
+- 💾 Smooth DOM manipulation using vanilla JS
+
+---
+
+## 🛠️ Technologies Used
+
+- HTML5
+- Tailwind CSS
+- DaisyUI
+- JavaScript (Vanilla)
+
+---
+
+## 📁 Project Structure
+
+
+---
+
+## 🚀 How to Run Locally
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/yourusername/devboard.git
+cd devboard
